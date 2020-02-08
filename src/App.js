@@ -20,6 +20,7 @@ class App extends Component {
   }
 }
 
+// 以下内容是和Redux相关的
 const mapStateToProps = state => ({
   ...state
  })
