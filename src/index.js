@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 ReactDOM.render(
 <Provider store={configureStore()}>
     <App />
+    {/*//这是React的独特写法*/}
 </Provider>
 , document.getElementById('root'));
 

@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8e7c1a87-debd-4d54-b0e0-20370823953f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button-events/EventDemo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/button-events/EventDemo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/simpleReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/simpleReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +70,7 @@
       <workItem from="1555803145091" duration="817000" />
       <workItem from="1579382603486" duration="310000" />
       <workItem from="1581191582387" duration="69000" />
+      <workItem from="1581283563277" duration="356000" />
     </task>
     <servers />
   </component>
@@ -73,6 +78,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="283" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581283087310">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="283" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1581283087310" />
     <state width="1096" height="207" key="GridCell.Tab.0.bottom" timestamp="1579458571818">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
@@ -89,5 +98,13 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="1096" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1579458571817" />
+    <state x="511" y="184" width="683" height="486" key="find.popup" timestamp="1581204835126">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="511" y="184" width="683" height="486" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1581204835126" />
+    <state x="518" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1581200555221">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="518" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1581200555221" />
   </component>
 </project>

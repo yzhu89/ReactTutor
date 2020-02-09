@@ -5,7 +5,7 @@ import { simpleAction } from '../redux/actions/simpleAction';
 class EventDemo extends React.Component {
   constructor(props) {
       super();
-      this.state = { count: 0 , newName: 'YangSB'};
+      this.state = { count: 0 , newName: 'Yang'};
       this.myName = props.myName;
       this.handleSubmit = this.handleSubmit.bind(this);
       console.log(props.myName);
@@ -24,10 +24,15 @@ class EventDemo extends React.Component {
 
   handleSubmit() {
     console.log(this.state.count);
+      console.log(this.state.myName);
     this.setState(state => ({
       count: state.count + 1,
-      newName: 'Yang'
+      newName: 'Bang',
+        myName: 'Angel'
     }));
+
+    console.log(this.myName);
+      this.myName = 'Yawei';
   }
 
     render() {
