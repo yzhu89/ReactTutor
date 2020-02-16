@@ -1,0 +1,30 @@
+.spanStyle{
+    color: cornflowerblue;
+    margin-right: 5px
+}
+
+.divStyle{
+    margin-bottom: 2px;
+    border-left: solid 2px;
+    border-right: solid 2px;
+    border-bottom: solid 2px;
+    border-top: solid 2px;
+    display: flex;
+    justify-content: space-between
+}
+
+.border{
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.informBoxBoarder{
+    border-bottom: solid 2px;
+    border-left: solid 2px;
+    border-right: solid 2px;
+    border-top: solid 2px;
+    width: 300px;
+    border-color: cornflowerblue;
+}
+
+

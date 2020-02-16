@@ -11,3 +11,4 @@ export default (state = {reduxName: 'reduxName'}, action) => {
       return state
     }
    }
+
